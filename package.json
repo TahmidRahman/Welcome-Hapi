@@ -1,0 +1,19 @@
+{
+  "name": "welcomehapi",
+  "version": "1.0.0",
+  "description": "Getting adapted with hapi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "keywords": [
+    "welcomeHapi"
+  ],
+  "author": "Tahmid Rahman",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^18.3.1",
+    "@hapi/joi": "^15.0.3"
+  }
+}
